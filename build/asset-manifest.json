@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b32c31a.chunk.css",
+    "main.js": "/static/js/main.0d9dfa0d.chunk.js",
+    "main.js.map": "/static/js/main.0d9dfa0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4798615e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4798615e.js.map",
+    "static/js/2.0a23efde.chunk.js": "/static/js/2.0a23efde.chunk.js",
+    "static/js/2.0a23efde.chunk.js.map": "/static/js/2.0a23efde.chunk.js.map",
+    "static/js/3.c981260e.chunk.js": "/static/js/3.c981260e.chunk.js",
+    "static/js/3.c981260e.chunk.js.map": "/static/js/3.c981260e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6b32c31a.chunk.css.map": "/static/css/main.6b32c31a.chunk.css.map",
+    "static/js/2.0a23efde.chunk.js.LICENSE.txt": "/static/js/2.0a23efde.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Effra_Std_He.4cc11039.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4798615e.js",
+    "static/js/2.0a23efde.chunk.js",
+    "static/css/main.6b32c31a.chunk.css",
+    "static/js/main.0d9dfa0d.chunk.js"
+  ]
+}
