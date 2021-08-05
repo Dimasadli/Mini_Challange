@@ -15,7 +15,6 @@
     font-size: 16px;
 }
 
-
 .login-form-label{
     font-size: 14px;
     font-weight: 900;  
@@ -39,6 +38,10 @@
     width: 85%;
     padding: 20px 20px 0;
     text-align: left;
+}
+
+.login-page-title h1{
+    font-weight: 1000;
 }
 
 .login-page-footer{
