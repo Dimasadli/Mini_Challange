@@ -41,13 +41,13 @@ class Home extends Component {
                         <HeaderComp
                             totalOrder={this.state.totalOrder} />
                     </div>
-                    <Route path='/' exact ><LandingPage textPage='Home' /></Route>
-                    <Route path='/brand'><LandingPage textPage='Brand' /></Route>
+                    <Route path='/' exact ><LandingPage textPage='Home Page' /></Route>
+                    <Route path='/brand'><LandingPage textPage='Brand Page' /></Route>
                     <Route path='/product'><Product
                         getCart={this.getCart} />
                     </Route>
-                    <Route path='/kahf-program'><LandingPage textPage='Kahf Program' /></Route>
-                    <Route path='/discovery'><LandingPage textPage='Discovery' /></Route>
+                    <Route path='/kahf-program'><LandingPage textPage='Kahf Program Page' /></Route>
+                    <Route path='/discovery'><LandingPage textPage='Discovery Page' /></Route>
                     <Route path='/my-account' ><Main /></Route>
                     <Route path='/cart'><Cart
                         totalOrder={this.state.totalOrder} />
