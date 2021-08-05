@@ -1,0 +1,43 @@
+.cart-title h1{
+    color: #929292;
+    text-transform: uppercase;
+    font-size: 1.75em;
+    font-weight: 600;
+}
+.cart-detail{
+    width: 80%;
+    height: 100px;
+    margin-top: 2.5em;
+}
+
+.cart-detail img{
+    width: 15%;
+    padding-left: 13px;
+}
+
+.cart-detail span{
+    display: inline-block;
+    margin-left: 2em;
+    font-size: 14px;
+    font-family: 'Effra';
+    font-weight: bolder;
+}
+
+.go-back-shopping p{
+    font-size: 13px;
+    font-weight: 300;
+}
+.go-back-shopping p:hover{
+    cursor: pointer;
+}
+
+.go-back-shopping p span{
+    margin-right: 0.25em;
+    text-decoration: none;
+}
+
+.go-back-shopping{
+    text-decoration: none;
+    color: #929292;
+    margin-top: 2.5em;
+}

@@ -1,0 +1,28 @@
+.container{
+    max-width: 1050px;
+    position: relative;
+    padding: 32px;
+    margin-top: 1em;
+}
+.img-page{
+    position: relative;
+}
+.img-page img{
+    width: 63%;
+}
+
+.anchor{
+    color: #75a74d;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.anchor:hover{
+    transition: color .2s ease-out;
+    color: #080808;
+    cursor: pointer;
+}
+
+
+
+
